@@ -1,0 +1,4 @@
+.idea/
+credentials/*
+trump_tracker.png
+!credentials/.gitkeep
